@@ -19,3 +19,21 @@ Histogram and KDE plots reveal how Filipino families spend monthly:
 
 ![Expenditure Histogram](PNG/2.png)  
 ![Expenditure KDE](PNG/3.png)
+
+
+## 🔗 Income vs. Expenditure Correlations  
+The correlation matrix reveals how different household expenditures relate to total income. To simplify interpretation, the horizontal bar chart below highlights the **top correlations** with income:
+
+- 🗣️ **Communication Expenditure** (0.71): Strongest link—higher income families spend more on connectivity.  
+- 🏠 **Housing & Utilities** (0.68): Reflects increased capacity for rent, electricity, and water costs.  
+- 🛍️ **Miscellaneous Goods & Services** (0.67): Captures flexible spending on non-essential items.
+
+Other notable correlations include:
+- 🍽️ **Food Expenditure** (0.66)  
+- 🚗 **Transport** (0.64)  
+- 👗 **Clothing & Footwear** (0.61)
+
+These patterns suggest that as income rises, spending increases across nearly all categories—but especially in areas tied to lifestyle, housing, and access.
+
+![Correlation Matrix](PNG/4.png)  
+![Top Income Correlations](PNG/5.png)
