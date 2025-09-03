@@ -34,7 +34,7 @@ Each cell shows how two categories relate—for example, how **Total Household I
 
 This matrix is useful for spotting patterns across all variables, not just income.
 
-![Correlation Matrix](PNG/your_heatmap_image.png)
+![Correlation Matrix](PNG/4.png)
 
 ---
 
@@ -52,4 +52,4 @@ Other notable correlations:
 
 These patterns suggest that as income rises, spending increases across nearly all categories—especially in lifestyle, housing, and access-related areas.
 
-![Top Income Correlations](PNG/your_bar_chart_image.png)
+![Top Income Correlations](PNG/5.png)
