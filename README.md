@@ -10,12 +10,12 @@ This visualization highlights stark income differences across Philippine regions
 
 ![Average Monthly Income](PNG/1.png)
 
-## 🛒 Family Expenditure Distribution  
+## 🛒 Family income Distribution  
 Histogram and KDE plots reveal how Filipino families spend monthly:
 
-- **Skewed Distribution**: Most families spend in the lower-to-middle range; a few outliers spend significantly more.  
-- **Central Tendency**: Peak spending falls between PHP 20,000–30,000.  
-- **High Spenders**: A long right tail (above PHP 50,000) reflects a small group with elevated expenditures.
+- **Skewed Distribution**: Most families income in the lower-to-middle range; a few outliers spend significantly more.  
+- **Central Tendency**: Peak income falls between PHP 20,000–30,000.  
+- **High Income**: A long right tail (above PHP 50,000) reflects a small group with elevated expenditures.
 
 ![Expenditure Histogram](PNG/2.png)  
 ![Expenditure KDE](PNG/3.png)
