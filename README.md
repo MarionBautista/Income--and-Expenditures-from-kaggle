@@ -1,20 +1,13 @@
-# Income--and-Expenditures-from-kaggle
-📊 Philippines Income &amp; Expenditure Data Analysis
----
+Income & Expenditures from Kaggle
+📊 Philippines Income & Expenditure Data Analysis
+Understanding Regional Income Disparity 💰
+This project visualizes the stark difference in average monthly income across the Philippines. The data clearly shows that the country's economic power is highly concentrated, with the National Capital Region (NCR) leading the way.
 
-### **Overview of Philippine Regional Income** 💰
+Quick Look: Key Findings ✨
+The Top Earners: The chart confirms that the National Capital Region (NCR) and nearby regions like CALABARZON (Region IV-A) and Central Luzon (Region III) have the highest average monthly incomes. This is no surprise, given the concentration of businesses and job opportunities in these areas.
 
-The bar chart provides a clear look at the significant disparity in **average monthly income** among the different regions of the Philippines. The data highlights a strong economic centralization, with the National Capital Region (NCR) acting as the primary economic powerhouse.
+The National Benchmark: A dashed line across the chart marks the national average monthly income. Notice that only a handful of regions—NCR, CALABARZON, and Central Luzon—are above this line.
 
----
-
-### **Key Findings & Regional Highlights** ✨
-
-* **Dominant Economic Hubs:** The chart visually confirms that the **National Capital Region (NCR)** and its neighboring regions, such as **CALABARZON (Region IV-A)** and **Central Luzon (Region III)**, have the highest average monthly incomes. This is likely due to the concentration of businesses, industries, and job opportunities in and around the capital.
-    
-* **National Average:** The dashed line across the chart represents the **national average monthly income**. This serves as a benchmark, showing that only a few regions—specifically NCR, CALABARZON, and Central Luzon—exceed this national average.
-* **Lower-Income Regions:** Conversely, regions in the Visayas and Mindanao, particularly the **Bicol Region (Region V)**, **SOCCSKSARGEN (Region XII)**, and the **Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)**, have the lowest average incomes. This disparity underscores the economic challenges and uneven development across the archipelago.
-
-This analysis shows how income is not evenly distributed throughout the Philippines, with significant economic activity and higher earnings concentrated in the most urbanized areas.
+The Lowest Incomes: On the other end of the spectrum, regions in the Visayas and Mindanao, specifically the Bicol Region (Region V), SOCCSKSARGEN (Region XII), and BARMM, show the lowest average incomes. This highlights the ongoing challenge of uneven economic development across the Philippines.
 
 ![Average Monthly Income](PNG/1.png)
