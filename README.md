@@ -29,5 +29,5 @@ Positive Skew: The distribution is positively skewed, meaning the tail of the di
 Central Tendency: The peak of the distribution is centered around PHP 20,000 to PHP 30,000, which represents the most common range of average monthly expenditure among families. This corresponds to the highest bar in the histogram and the peak of the KDE curve.
 
 Outliers/High Spenders: The long tail on the right side of the plot (above PHP 50,000) represents a smaller group of families with very high monthly expenditures.
-![Average Monthly Income](PNG/2.png)!
-[Average Monthly Income](PNG/3.png)
+![Average Monthly Income](PNG/2.png)
+![Average Monthly Income](PNG/3.png)
