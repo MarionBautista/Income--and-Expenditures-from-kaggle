@@ -16,3 +16,5 @@ The bar chart provides a clear look at the significant disparity in **average mo
 * **Lower-Income Regions:** Conversely, regions in the Visayas and Mindanao, particularly the **Bicol Region (Region V)**, **SOCCSKSARGEN (Region XII)**, and the **Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)**, have the lowest average incomes. This disparity underscores the economic challenges and uneven development across the archipelago.
 
 This analysis shows how income is not evenly distributed throughout the Philippines, with significant economic activity and higher earnings concentrated in the most urbanized areas.
+
+![Average Monthly Income](PNG/1.png)
