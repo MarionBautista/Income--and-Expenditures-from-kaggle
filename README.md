@@ -22,18 +22,34 @@ Histogram and KDE plots reveal how Filipino families spend monthly:
 
 
 ## 🔗 Income vs. Expenditure Correlations  
-The correlation matrix reveals how different household expenditures relate to total income. To simplify interpretation, the horizontal bar chart below highlights the **top correlations** with income:
+
+### 🧮 Correlation Matrix Overview  
+The heatmap below visualizes the correlation coefficients between various household income and expenditure categories. It helps identify which spending behaviors are most closely tied to income levels.
+
+- 🔴 **Red Shades**: Strong positive correlations (closer to +1.0)  
+- 🔵 **Blue Shades**: Strong negative correlations (closer to -1.0)  
+- ⚪ **White Areas**: Weak or no correlation (around 0)
+
+Each cell shows how two categories relate—for example, how **Total Household Income** correlates with **Transport Expenditure**, or how **Medical Care** relates to **Education Spending**. The diagonal line is always 1.0, showing perfect correlation with itself.
+
+This matrix is useful for spotting patterns across all variables, not just income.
+
+![Correlation Matrix](PNG/your_heatmap_image.png)
+
+---
+
+### 📊 Top Income Correlations  
+To simplify interpretation, the horizontal bar chart below highlights the **strongest correlations with Total Household Income**:
 
 - 🗣️ **Communication Expenditure** (0.71): Strongest link—higher income families spend more on connectivity.  
 - 🏠 **Housing & Utilities** (0.68): Reflects increased capacity for rent, electricity, and water costs.  
 - 🛍️ **Miscellaneous Goods & Services** (0.67): Captures flexible spending on non-essential items.
 
-Other notable correlations include:
+Other notable correlations:
 - 🍽️ **Food Expenditure** (0.66)  
 - 🚗 **Transport** (0.64)  
 - 👗 **Clothing & Footwear** (0.61)
 
-These patterns suggest that as income rises, spending increases across nearly all categories—but especially in areas tied to lifestyle, housing, and access.
+These patterns suggest that as income rises, spending increases across nearly all categories—especially in lifestyle, housing, and access-related areas.
 
-![Correlation Matrix](PNG/4.png)  
-![Top Income Correlations](PNG/5.png)
+![Top Income Correlations](PNG/your_bar_chart_image.png)
