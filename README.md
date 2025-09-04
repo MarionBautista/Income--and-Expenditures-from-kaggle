@@ -54,4 +54,16 @@ These patterns suggest that as income rises, spending increases across nearly al
 
 ![Top Income Correlations](PNG/5.png)
 
+## 🧭 Main Source of Income Distribution  
+This pie chart summarizes how Filipino households earn their income:
+
+- **Wages/Salaries (49.1%)**: The primary income stream, reflecting dependence on formal employment.  
+- **Entrepreneurial Activities (24.8%)**: A significant share comes from self-run businesses and informal trade.  
+- **Other Sources (26.1%)**: Includes remittances, pensions, and passive income.
+
+The distribution highlights that while wages dominate, nearly half of household income is derived from non-salaried sources—underscoring the diversity of income channels in the Philippines.
+
+![Main Source of Income Distribution](PNG/6.png)
+
+
 
