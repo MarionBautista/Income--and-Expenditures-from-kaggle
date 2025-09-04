@@ -4,17 +4,20 @@
 
 ## 💰 Average Income Levels Across Philippine Regions
 
-This chart shows the average monthly income across different regions in the Philippines. It clearly highlights major income disparities. !(PNG/1.png)
+This chart shows the average monthly income across different regions in the Philippines. It clearly highlights major income disparities. ![Average Monthly Income](PNG/1.png)
 
 - **Top Earners**: The National Capital Region (**NCR**), **CALABARZON**, and **Central Luzon** have the highest average incomes.
 - **National Benchmark**: The dashed line shows the national average. Only a few regions are above this line.
 - **Lowest Incomes**: **Bicol**, **SOCCSKSARGEN**, and **BARMM** have the lowest average incomes, showing significant regional inequality.
 
+
+
 ---
 
 ## 🛒 Family Income & Expenditure Distribution
 
-These graphs show how household income is distributed across the country. !(PNG/2.png) !(PNG/3.png)
+These graphs show how household income is distributed across the country. ![Expenditure Histogram](PNG/2.png)  
+![Expenditure KDE](PNG/3.png)
 
 - **Most Common Income**: The majority of families fall into the lower-to-middle income bracket, with a peak income between **PHP 20,000–30,000**.
 - **Skewed Distribution**: The data is skewed to the right, meaning a small number of families have very high incomes, creating a long "tail" on the graph. This shows that most of the population earns less than the average, while a few outliers with high incomes pull the average up.
