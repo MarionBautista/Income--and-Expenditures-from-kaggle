@@ -29,7 +29,7 @@ These graphs show how household income is distributed across the country.
 ## 🔗 Income vs. Expenditure Correlations
 
 This section explores how different types of spending are related to a family's total income.
-![Top Income Correlations](PNG/5.png)
+![Top Income Correlations](PNG/4.png)
 
 ### 📊 Top Income Correlations
 
