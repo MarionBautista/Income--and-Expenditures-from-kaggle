@@ -52,4 +52,4 @@ Other notable correlations:
 
 These patterns suggest that as income rises, spending increases across nearly all categories—especially in lifestyle, housing, and access-related areas.
 
-![Top Income Correlations](PNG/5.png)
+
