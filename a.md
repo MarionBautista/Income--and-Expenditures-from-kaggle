@@ -25,42 +25,26 @@ These graphs show how household income is distributed across the country.
 - **Skewed Distribution**: The data is skewed to the right, meaning a small number of families have very high incomes, creating a long "tail" on the graph. This shows that most of the population earns less than the average, while a few outliers with high incomes pull the average up.
 
 ---
-
 ## 🔗 Income vs. Expenditure Correlations  
 
-### 🧮 Full Correlation Matrix  
+### 🧮 Full Correlation Matrix (All Variables)  
 This heatmap shows how different income and expenditure categories relate to one another. Each cell represents a **correlation coefficient** ranging from **-1.0 to +1.0**:
 
 - 🔴 **Red** = Strong positive correlation  
 - 🔵 **Blue** = Strong negative correlation  
 - ⚪ **White** = Weak or no correlation
 
-Key relationships:
-- **Total Household Income** is strongly correlated with:
-  - Communication (0.71)
-  - Housing, Water, Electricity, Gas & Fuels (0.68)
-  - Miscellaneous Goods & Services (0.67)
-  - Total Food Expenditure (0.66)
-  - Transport (0.64)
-  - Clothing, Footwear and Other Wear (0.61)
-  - Restaurant and Hotels (0.59)
-  - Education (0.58)
-  - Medical Care (0.56)
-  - Household Operation (0.55)
+It reveals patterns across all variables—not just income. For example:
+- **Medical Care**, **Education**, and **Transport** tend to rise together.
+- **Agricultural Indicators** show weak or negative correlations with urban-centric spending.
 
-
----
-
-Other patterns:
-- **Agricultural Household Indicator** and **Crop Farming Expenses** show weak or negative correlations with urban-centric spending.
-- Spending categories like **Medical Care**, **Education**, and **Transport** tend to rise together, reflecting lifestyle and access improvements.
-
-This matrix helps uncover hidden relationships and spending behaviors across Filipino households.
+This matrix helps uncover hidden relationships in household behavior.
 
 ![Correlation Matrix](PNG/4.png)
 
 
 
+--
 
 
 
