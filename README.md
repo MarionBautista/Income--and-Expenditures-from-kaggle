@@ -65,5 +65,17 @@ The distribution highlights that while wages dominate, nearly half of household 
 
 ![Main Source of Income Distribution](PNG/6.png)
 
+## 👨‍👩‍👧‍👦 Number of Family Members  
+This histogram shows the distribution of household sizes across the dataset:
+
+- **Typical Family Size**: Most families consist of **2 to 6 members**, forming the central cluster.  
+- **Central Tendency**: A red dashed line marks the average family size, approximately **4 members**.  
+- **Right-Skewed Distribution**: Larger families (7+) are less common but present, with a long tail extending up to 25 members.
+
+This visualization helps contextualize income and expenditure data by showing how household size varies across the population.
+
+![Number of Family Members](PNG/7.png)
+
+
 
 
