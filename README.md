@@ -1,7 +1,7 @@
 # 📊 Philippines Income & Expenditure Analysis  
 *Data Source: Kaggle*
 
-## 💰 Regional Income Disparity  
+## 💰 Income Levels Across Philippine Regions 
 This visualization highlights stark income differences across Philippine regions. Economic activity is heavily concentrated in:
 
 - **Top Earners**: NCR, CALABARZON, and Central Luzon lead in average monthly income.  
