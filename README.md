@@ -66,7 +66,7 @@ This chart simplifies a larger correlation matrix to show which spending categor
 ## 🧭 Main Source of Income
 
 This pie chart shows where Filipino households get their money. 
-![Main Source of Income Distribution](PNG/66.png)
+![Main Source of Income Distribution](PNG/6.png)
 
 - **Wages & Salaries (49.1%)**: Almost half of the households rely on formal employment as their main source of income.
 - **Other Sources (26.1%)**: A significant portion comes from sources like remittances from abroad, pensions, and investments.
