@@ -34,10 +34,6 @@ This heatmap shows how different income and expenditure categories relate to one
 - 🔵 **Blue** = Strong negative correlation  
 - ⚪ **White** = Weak or no correlation
 
-It reveals patterns across all variables—not just income. For example:
-- **Medical Care**, **Education**, and **Transport** tend to rise together.
-- **Agricultural Indicators** show weak or negative correlations with urban-centric spending.
-
 This matrix helps uncover hidden relationships in household behavior.
 
 ![Correlation Matrix](PNG/4.png)
