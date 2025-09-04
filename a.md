@@ -26,10 +26,48 @@ These graphs show how household income is distributed across the country.
 
 ---
 
+## 🔗 Income vs. Expenditure Correlations  
+
+### 🧮 Full Correlation Matrix  
+This heatmap shows how different income and expenditure categories relate to one another. Each cell represents a **correlation coefficient** ranging from **-1.0 to +1.0**:
+
+- 🔴 **Red** = Strong positive correlation  
+- 🔵 **Blue** = Strong negative correlation  
+- ⚪ **White** = Weak or no correlation
+
+Key relationships:
+- **Total Household Income** is strongly correlated with:
+  - Communication (0.71)
+  - Housing, Water, Electricity, Gas & Fuels (0.68)
+  - Miscellaneous Goods & Services (0.67)
+  - Total Food Expenditure (0.66)
+  - Transport (0.64)
+  - Clothing, Footwear and Other Wear (0.61)
+  - Restaurant and Hotels (0.59)
+  - Education (0.58)
+  - Medical Care (0.56)
+  - Household Operation (0.55)
+
+
+---
+
+Other patterns:
+- **Agricultural Household Indicator** and **Crop Farming Expenses** show weak or negative correlations with urban-centric spending.
+- Spending categories like **Medical Care**, **Education**, and **Transport** tend to rise together, reflecting lifestyle and access improvements.
+
+This matrix helps uncover hidden relationships and spending behaviors across Filipino households.
+
+![Correlation Matrix](PNG/4.png)
+
+
+
+
+
+
+
 ## 🔗 Income vs. Expenditure Correlations
 
 This section explores how different types of spending are related to a family's total income.
-![Top Income Correlations](PNG/4.png)
 
 ### 📊 Top Income Correlations
 
