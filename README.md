@@ -15,7 +15,7 @@ This chart shows the average monthly income across different regions in the Phil
 
 ---
 
-## 🛒 Family Income & Expenditure Distribution
+## 🛒 Family Income Distribution
 
 These graphs show how household income is distributed across the country. 
 ![Expenditure Histogram](PNG/2.png)  
