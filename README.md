@@ -8,7 +8,7 @@ This chart shows the average monthly income across different regions in the Phil
 ![Average Monthly Income](PNG/1.png)
 
 - **Top Earners**: The National Capital Region (**NCR**), **CALABARZON**, and **Central Luzon** have the highest average incomes.
-- **National Benchmark**: The dashed line shows the national average. Only a few regions are above this line.
+- **National Benchmark**: The dashed line shows the national average (PHP 19,481). Only a few regions are above this line.
 - **Lowest Incomes**: **Bicol**, **SOCCSKSARGEN**, and **BARMM** have the lowest average incomes, showing significant regional inequality.
 
 
