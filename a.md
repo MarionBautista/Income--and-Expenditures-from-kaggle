@@ -89,3 +89,20 @@ If you find this project insightful:
 - 🧠 **Contribute** ideas or enhancements via Issues or Pull Requests
 
 Let’s make data-driven decisions more accessible to everyone.
+
+---
+
+## 📬 Contact & Portfolio
+
+---
+
+## 📬 Contact & Portfolio
+
+Interested in data visualization, automation, or stakeholder-ready reporting? Let’s connect.
+
+- 🌐 [Portfolio Website](https://zipzapph.github.io/Marion.Bautista/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marion-ace-bautista-b3315b2ab)
+- 📧 Email: [malb070902@gmail.com](mailto:malb070902@gmail.com)
+
+Open to freelance, consulting, or full-time opportunities in data analysis, visualization, and process automation.
+
