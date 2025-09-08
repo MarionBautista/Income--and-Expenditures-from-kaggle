@@ -92,9 +92,6 @@ Let’s make data-driven decisions more accessible to everyone.
 
 ---
 
-## 📬 Contact & Portfolio
-
----
 
 ## 📬 Contact & Portfolio
 
