@@ -25,18 +25,21 @@ These graphs show how household income is distributed across the country.
 - **Skewed Distribution**: The data is skewed to the right, meaning a small number of families have very high incomes, creating a long "tail" on the graph. This shows that most of the population earns less than the average, while a few outliers with high incomes pull the average up.
 
 ---
-## 🔗 Income vs. Expenditure Correlations  
 
-### 🧮 Full Correlation Matrix (All Variables)  
-This heatmap shows how different income and expenditure categories relate to one another. Each cell represents a **correlation coefficient** ranging from **-1.0 to +1.0**:
+### 🧮 Full Correlation Matrix (All Variables)
 
-- 🔴 **Red** = Strong positive correlation  
-- 🔵 **Blue** = Strong negative correlation  
-- ⚪ **White** = Weak or no correlation
+This chart shows how different types of income and spending are connected. Each box compares two categories — like wage income and education spending — and shows whether they tend to increase or decrease together.
 
-This matrix helps uncover hidden relationships in household behavior.
+- 🔴 **Red** = Strong positive relationship (they rise together)
+- 🔵 **Blue** = Strong negative relationship (one rises, the other falls)
+- ⚪ **White** = Little or no relationship
+
+The diagonal line of red boxes simply shows that each category is perfectly related to itself — that’s expected.
+
+This matrix helps reveal patterns in household behavior, such as which income sources are linked to specific types of spending. These insights can support better budgeting, planning, and policy decisions.
 
 ![Correlation Matrix](PNG/4.png)
+
 
 
 
