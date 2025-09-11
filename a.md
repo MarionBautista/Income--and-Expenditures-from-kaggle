@@ -1,7 +1,25 @@
 # 📊 Philippines Income & Expenditure Analysis  
-*Data Source: Kaggle*
+*Data Source: [Kaggle](https://www.kaggle.com/datasets/solomonappiahkubi/personal-monthly-expenditure-2021)*
 
-Explore regional income disparities, household spending patterns, and key correlations that shape Filipino economic behavior. This project visualizes critical insights for policy makers, researchers, and anyone curious about the socioeconomic landscape of the Philippines.
+Explore regional income disparities, household spending patterns, and key correlations that shape Filipino economic behavior. This Python-powered project visualizes critical insights for policymakers, researchers, and anyone curious about the socioeconomic landscape of the Philippines.
+
+---
+
+## 🧰 Tools & Techniques
+
+- **Python Libraries**: `pandas`, `matplotlib`, `seaborn`
+- **Data Cleaning**: Null handling, type conversion, outlier filtering
+- **Visualization**: Custom color logic, stakeholder-friendly chart design
+- **Documentation**: Markdown for clarity and accessibility
+
+---
+
+## 🎯 Project Goals
+
+- Analyze income and expenditure trends across Philippine regions  
+- Identify key correlations between income sources and spending habits  
+- Visualize data for non-technical audiences using clean, intuitive charts  
+- Provide actionable insights for budgeting, policy, and education
 
 ---
 
@@ -10,8 +28,8 @@ Explore regional income disparities, household spending patterns, and key correl
 
 This chart compares average monthly income across Philippine regions, revealing stark inequalities.
 
-- 🔝 **Top Earners**: NCR, CALABARZON, and Central Luzon lead the pack.
-- 📉 **Below Benchmark**: Most regions fall below the national average of **PHP 19,481** (dashed line).
+- 🔝 **Top Earners**: NCR, CALABARZON, and Central Luzon lead the pack.  
+- 📉 **Below Benchmark**: Most regions fall below the national average of **PHP 19,481** (dashed line).  
 - 🚨 **Lowest Incomes**: Bicol, SOCCSKSARGEN, and BARMM show the greatest income challenges.
 
 ---
@@ -22,7 +40,7 @@ This chart compares average monthly income across Philippine regions, revealing 
 
 These graphs illustrate how income is distributed among Filipino families.
 
-- 📊 **Peak Range**: Most households earn between **PHP 20,000–30,000**.
+- 📊 **Peak Range**: Most households earn between **PHP 20,000–30,000**.  
 - 📈 **Right-Skewed**: A few high-income outliers inflate the average, while most earn below it.
 
 ---
@@ -79,7 +97,16 @@ Understanding household size helps contextualize income and spending.
 
 ---
 
-## 🚀 Get Involved
+## 🚀 What’s Next?
+
+- 📈 Add forecasting models (e.g., linear regression, ARIMA)  
+- 🧠 Segment spending by income bracket or region  
+- 🛠️ Automate report generation with Python scripts  
+- 📊 Build an interactive dashboard using `plotly` or `streamlit`
+
+---
+
+## 🤝 Get Involved
 
 If you find this project insightful:
 
@@ -92,14 +119,12 @@ Let’s make data-driven decisions more accessible to everyone.
 
 ---
 
-
 ## 📬 Contact & Portfolio
 
 Interested in data visualization, automation, or stakeholder-ready reporting? Let’s connect.
 
-- 🌐 [Portfolio Website](https://zipzapph.github.io/Marion.Bautista/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/marion-ace-bautista-b3315b2ab)
+- 🌐 [Portfolio Website](https://zipzapph.github.io/Marion.Bautista/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marion-ace-bautista-b3315b2ab)  
 - 📧 Email: [malb070902@gmail.com](mailto:malb070902@gmail.com)
 
 Open to freelance, consulting, or full-time opportunities in data analysis, visualization, and process automation.
-
