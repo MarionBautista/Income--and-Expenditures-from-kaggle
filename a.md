@@ -10,7 +10,6 @@ Explore regional income disparities, household spending patterns, and key correl
 - **Python Libraries**: `pandas`, `matplotlib`, `seaborn`
 - **Data Cleaning**: Null handling, type conversion, outlier filtering
 - **Visualization**: Custom color logic, stakeholder-friendly chart design
-- **Documentation**: Markdown for clarity and accessibility
 
 ---
 
