@@ -1,6 +1,6 @@
 
 # 📊 Philippines Income & Expenditure Analysis  
-*Data Source: [Kaggle](https://www.kaggle.com/datasets/solomonappiahkubi/personal-monthly-expenditure-2021](https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure))*
+*Data Source: [Kaggle](https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure)*
 
 Explore regional income disparities, household spending patterns, and key correlations that shape Filipino economic behavior. This Python-powered project visualizes critical insights for policymakers, researchers, and anyone curious about the socioeconomic landscape of the Philippines.
 
