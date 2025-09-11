@@ -1,6 +1,3 @@
-# 📊 Philippines Income & Expenditure Analysis  
-*Data Source: Kaggle*
-
 
 # 📊 Philippines Income & Expenditure Analysis  
 *Data Source: [Kaggle](https://www.kaggle.com/datasets/solomonappiahkubi/personal-monthly-expenditure-2021](https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure))*
