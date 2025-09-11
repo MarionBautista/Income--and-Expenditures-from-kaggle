@@ -1,6 +1,35 @@
 # 📊 Philippines Income & Expenditure Analysis  
 *Data Source: Kaggle*
 
+
+# 📊 Philippines Income & Expenditure Analysis  
+*Data Source: [Kaggle](https://www.kaggle.com/datasets/solomonappiahkubi/personal-monthly-expenditure-2021](https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure))*
+
+Explore regional income disparities, household spending patterns, and key correlations that shape Filipino economic behavior. This Python-powered project visualizes critical insights for policymakers, researchers, and anyone curious about the socioeconomic landscape of the Philippines.
+
+---
+
+## 🧰 Tools & Techniques
+
+- **Python Libraries**: `pandas`, `matplotlib`, `seaborn`
+- **Data Cleaning**: Null handling, type conversion, outlier filtering
+- **Visualization**: Custom color logic, stakeholder-friendly chart design
+- **Documentation**: Markdown for clarity and accessibility
+
+---
+
+## 🎯 Project Goals
+
+- Analyze income and expenditure trends across Philippine regions  
+- Identify key correlations between income sources and spending habits  
+- Visualize data for non-technical audiences using clean, intuitive charts  
+- Provide actionable insights for budgeting, policy, and education
+
+---
+
+
+
+
 Explore regional income disparities, household spending patterns, and key correlations that shape Filipino economic behavior. This project visualizes critical insights for policy makers, researchers, and anyone curious about the socioeconomic landscape of the Philippines.
 
 ---
